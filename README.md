@@ -23,7 +23,7 @@ _For education only._
 - Frontend page for customer.
 - Git source control.
 - Database design (temporary).
-![image](https://user-images.githubusercontent.com/70925557/99244864-41f6c080-2835-11eb-87a7-22a30e547484.png)
+![image](https://user-images.githubusercontent.com/70925557/99245023-81251180-2835-11eb-99eb-d4b850f82578.png)
 -----
 ## Template
 - Admin: https://startbootstrap.com/templates/sb-admin/
